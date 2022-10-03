@@ -89,8 +89,7 @@ Deze deeltaak hoort bij de gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] De 9 basis layouts zijn geïmplementeerd;
-- [ ] De 9 Advanced layouts zijn geïmplementeerd;
+- [ ] De 9 basis layouts en/of 9 Advanced layouts zijn geïmplementeerd;
 - [ ] Al je werk te bekijken is via GitHub pages;
 - [ ] Alle breakdown schetsen voor de 18 layouts in je wiki zijn opgenomen;
 - [ ] Bij elke schets staat een korte uitleg hoe je code werkt.
