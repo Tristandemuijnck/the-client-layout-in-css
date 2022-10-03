@@ -7,6 +7,33 @@
     <link rel="stylesheet" href="../style.css" />
     <style>
       /* Doe hier jouw ding! */
+      body{
+        display: grid;
+        grid-template-columns: 1fr 2fr 4fr;
+        grid-template-rows: 1fr 4fr 2fr 4fr 2fr 4fr 1fr;
+        
+      }
+
+      header{
+        grid-column: 1 / span 2;
+        grid-row: 2;
+      }
+
+      nav{
+        grid-column: 1 / span 2;
+        grid-row: 4;
+      }
+
+      main{
+        grid-column: 2 / span 2;
+        grid-row: 1 / span 7;
+        z-index: -1;
+      }
+
+      footer{
+        grid-column: 1 / span 2;
+        grid-row: 6;
+      }
     </style>
   </head>
   <body id="advanced-layout-3">
